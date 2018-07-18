@@ -2,6 +2,7 @@
     "name": "jotapegue/tags",
     "description": "Tags Relatoinship",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "João Pedro Garcia",
