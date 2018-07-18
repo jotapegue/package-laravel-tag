@@ -1,0 +1,22 @@
+{
+    "name": "jotapegue/tags",
+    "description": "Tags Relatoinship",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "João Pedro Garcia",
+            "email": "pedro.garcia09@hotmail.com"
+        }
+    ],
+    "require": {
+        "laravelcollective/html":"^5.4.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/database/migrations"
+        ],
+        "psr-4": {
+            "Jotapegue\\Tags\\" : "src/"
+        }
+    }
+}
